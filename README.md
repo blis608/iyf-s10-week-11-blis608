@@ -43,7 +43,7 @@ npm install
 
 4. Create a `.env` file:
 PORT=5001
-MONGO_URI=mongodb://127.0.0.1:27017/communityhub
+MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your_secret_key
 
 5. Run the server:
